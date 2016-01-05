@@ -1,0 +1,5 @@
+C:\Users\lab1\Downloads\eclectic-master\eclectic-master\eclectic\obj\x86\Debug\Eclectic.csprojResolveAssemblyReference.cache
+C:\Users\lab1\Downloads\eclectic-master\eclectic-master\eclectic\obj\x86\Debug\eclectic.exe
+C:\Users\lab1\Downloads\eclectic-master\eclectic-master\eclectic\bin\Debug\eclectic.exe
+C:\Users\lab1\Downloads\eclectic-master\eclectic-master\eclectic\bin\Debug\eclectic.pdb
+C:\Users\lab1\Downloads\eclectic-master\eclectic-master\eclectic\obj\x86\Debug\eclectic.pdb

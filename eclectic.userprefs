@@ -1,0 +1,18 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="eclectic/ImageManager.cs">
+    <Files>
+      <File FileName="eclectic/Program.cs" Line="117" Column="117" />
+      <File FileName="eclectic/Argument.cs" Line="1" Column="1" />
+      <File FileName="eclectic/ImageManager.cs" Line="1" Column="1" />
+      <File FileName="../HumDrum/HumDrum/Collections/Test.cs" Line="1" Column="1" />
+      <File FileName="eclectic/HumDrum/Operations/DirectorySearch.cs" Line="1" Column="1" />
+      <File FileName="../HumDrum/HumDrum/Operations/Servitor.cs" Line="1" Column="1" />
+      <File FileName="eclectic/EclecticMainWindow.cs" Line="54" Column="54" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

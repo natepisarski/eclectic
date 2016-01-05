@@ -1,0 +1,12 @@
+/home/nate/Code/IDE/MonoDevelop/eclectic/eclectic/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/nate/Code/IDE/MonoDevelop/eclectic/eclectic/bin/Debug/eclectic.exe.mdb
+/home/nate/Code/IDE/MonoDevelop/eclectic/eclectic/bin/Debug/eclectic.exe
+/home/nate/Code/IDE/MonoDevelop/eclectic/eclectic/obj/x86/Debug/eclectic.exe
+/home/nate/Code/IDE/MonoDevelop/eclectic/eclectic/obj/x86/Debug/eclectic.exe.mdb
+/home/nate/Code/IDE/MonoDevelop/eclectic/eclectic/obj/x86/Debug/eclectic.gtk-gui.gui.stetic
+/home/nate/Code/IDE/MonoDevelop/eclectic-master/eclectic/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/nate/Code/IDE/MonoDevelop/eclectic-master/eclectic/bin/Debug/eclectic.exe.mdb
+/home/nate/Code/IDE/MonoDevelop/eclectic-master/eclectic/bin/Debug/eclectic.exe
+/home/nate/Code/IDE/MonoDevelop/eclectic-master/eclectic/obj/x86/Debug/eclectic.exe
+/home/nate/Code/IDE/MonoDevelop/eclectic-master/eclectic/obj/x86/Debug/eclectic.exe.mdb
+/home/nate/Code/IDE/MonoDevelop/eclectic-master/eclectic/obj/x86/Debug/eclectic.gtk-gui.gui.stetic

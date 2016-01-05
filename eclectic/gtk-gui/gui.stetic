@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<stetic-interface>
+  <configuration>
+    <images-root-path>..</images-root-path>
+    <target-gtk-version>2.12</target-gtk-version>
+  </configuration>
+  <import>
+    <widget-library name="../bin/Debug/eclectic.exe" internal="true" />
+  </import>
+  <widget class="Gtk.Window" id="Eclectic.EclecticMainWindow" design-size="400 300">
+    <property name="MemberName" />
+    <property name="Title" translatable="yes">EclecticMainWindow</property>
+    <property name="WindowPosition">CenterOnParent</property>
+    <child>
+      <widget class="Gtk.Image" id="imgView">
+        <property name="MemberName" />
+      </widget>
+    </child>
+  </widget>
+  <widget class="Gtk.Window" id="Eclectic.displayWindow" design-size="400 300">
+    <property name="MemberName" />
+    <property name="Title" translatable="yes">displayWindow</property>
+    <property name="WindowPosition">CenterOnParent</property>
+    <child>
+      <widget class="Gtk.DrawingArea" id="drawingarea1">
+        <property name="MemberName" />
+      </widget>
+    </child>
+  </widget>
+</stetic-interface>
