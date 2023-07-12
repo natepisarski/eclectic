@@ -1,13 +1,13 @@
 # eclectic
-Eclectic started off as a photomosaic generator. However, after finding out how ambitious such a project is given GTK#'s current (unfortunately, abysmal) state, it's become a statistical tool for image galleries. I eventually want to evolve it into a tool for managing image libraries.
+Eclectic was going to be a Photo Mosaic generator. It would accept a directory of images, then arrange them in a way that formed 1 larger image.
 
-# Features - Real
-These are all features which are implmented, but not necessarily exposed by the program in any way (yet)
+(Mostly) because of the abysmal state of GTK's C# bindings, I abandoned that purposes and made it an image statistics library instead.
 
-* Image similarity indexing
+# Features
+* Image similarity indexing (how similar are 2 images, mathematically?)
 * Average color calculation
-* Bitmap region selection
-* Flexible directory search
+* Selecting sub-images
+* Search directories of images
 
 # License
 BSD-3 clause
